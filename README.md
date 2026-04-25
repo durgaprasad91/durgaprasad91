@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on a frontend deve;loper<br>🌱 I’m currently learning Backwend<br>I once rebuilt a UI that was frustrating users — and watched the support tickets drop the next sprint.<br><br>That's the part of frontend development I'm obsessed with: the moment clean code meets real user impact.<br><br>I'm a Frontend Developer with 1.5+ years of experience building production-grade web apps using React.js and JavaScript. I've worked across startups and product teams — taking Figma designs and turning them into interfaces that are fast, responsive, and actually pleasant to use.<br><br>What I bring to a team:<br><br>— I catch UI bugs before users do<br><br>— I collaborate directly with designers and backend devs without needing a translator <br><br>— I write code that the next developer won't curse at<br><br>Right now I'm going deep on React performance, component architecture, and clean API integration. I care about shipping things that work — not just things that look like they work.<br><br>If you're building a product and need a frontend developer who takes ownership, pays attention to details, and shows up to figure things out — let's talk.
-
+Frontend Developer with 1.5+ years of experience building fast, user-focused web apps using React.js and JavaScript.
+I enjoy turning Figma designs into clean, responsive interfaces and fixing real user problems — not just writing code.
+Focused on React performance, scalable components, and clean API integration.
+Open to opportunities where I can build impactful products.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/durga-prasad-321b76239/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durga00312@gmail.com) 
